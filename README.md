@@ -2,7 +2,7 @@
 
 Please copy paste the following code
 
-
+```
 module "app_name" {
     source = "damirevolve/vpc/aws"
     region        = "us-east-1"
@@ -22,3 +22,4 @@ module "app_name" {
     }
 }
 
+```
